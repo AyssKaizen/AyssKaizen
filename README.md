@@ -57,10 +57,30 @@ I enjoy exploring both front-end and back-end possibilities and going beyond my 
 <!--- ⚡ Fun fact: I have been a **cheerleader** when I was an ERASMUS student.-->
 
 <br>
-<br />
 
 <!--
 Second Section
+-->
+
+## <img src="https://media.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif" width="50px"> Statistics
+
+Here are some statistics to have an overview of what I have been doing recently on GitHub. Note that I do not always push what I do and private repo does not displayed here
+<br>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aysskaizen&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=AyssKaizen stats" />
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyssKaizen&count_private=true&border_radius=10px&show_icons=true&card_width=455px&bg_color=FDEFF&border_color=1e90FF&title_color=1e90FF&text_color=1e272e&custom_title=Languages I use the most" />
+</p>
+<br>
+
+<br>
+
+<!--
+Third Section
 -->
 ## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50px"> Technologies & Tools 
 
@@ -103,25 +123,3 @@ ___
 
 <br>
 <br>
-
-<!--
-Third Section
--->
-
-## <img src="https://media.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif" width="50px"> Statistics
-
-Here are some statistics to have an overview of what I have been doing recently on GitHub. Note that I do not always push what I do and private repo does not displayed here
-<br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyssCream&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=AyssKaizen stats" />
-</p>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyssKaizen&count_private=true&border_radius=10px&show_icons=true&card_width=455px&bg_color=FDEFF&border_color=1e90FF&title_color=1e90FF&text_color=1e272e&custom_title=Languages I use the most" />
-</p>
-<br>
-<!--
-Last Section
--->
