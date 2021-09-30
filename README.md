@@ -7,7 +7,6 @@ Header
 -->
  <p align="right">
       <img alt="Custom badge" src="https://visitor-badge.glitch.me/badge?page_id=AyssKaizen.AyssKaizen">
-      <p align="right">عيسى</p>
  </p>
  
  <p align="center">
