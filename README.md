@@ -50,9 +50,6 @@ I enjoy exploring both front-end and back-end possibilities and going beyond my 
 
 - 🧑🏻‍💻 I’m currently working at **Mizen** on a web & mobile application
 - 📚 I’m currently learning some **clean code** practices and testing
-- 💬 Ask me about **anything**. 
-- 📫 How to reach me: Easy way 👀
-- 😄 Pronouns: Really ? 🤫 **Him/He**
 <!--- ⚡ Fun fact: I have been a **cheerleader** when I was an ERASMUS student.-->
 
 <br>
