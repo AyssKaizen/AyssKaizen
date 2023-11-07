@@ -6,9 +6,8 @@
 Header
 -->
  <p align="left">
-    <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" width="380px">
-    <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="200px">
-    <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" width="380px">
+    <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" width="360px">
+    <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="206px">
  </p>
  <br>
 <!--
