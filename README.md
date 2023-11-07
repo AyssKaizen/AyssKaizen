@@ -5,14 +5,10 @@
 <!--
 Header
 -->
- <p align="right">
-      <img alt="Custom badge" src="https://visitor-badge.glitch.me/badge?page_id=AyssKaizen.AyssKaizen">
- </p>
- 
- <p align="center">
-    <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" width="350px">
+ <p align="left">
+    <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" width="380px">
     <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="200px">
-    <img src="https://media.giphy.com/media/9mH5k7ZiXkjtNEQTMU/giphy.gif" width="210px">
+    <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" width="380px">
  </p>
  <br>
 <!--
@@ -41,40 +37,25 @@ I explore the programming world like a true member of the exploration battalion 
 I consider myself like a detective 🧐 because coding is like resolving a crime when you have to debug. 
 Even if sometimes, you committed it 😅.
 
-I enjoy exploring both front-end and back-end possibilities and going beyond my comfort zone for the sake of a project. 
+I enjoy exploring both front-end and back-end possibilities and going beyond my comfort zone for the sake of a project.
+
+Oh yes ! Furthermore! I am also 🥈 vice champion of France in Brazilian jui-jitsu and vice champion of France of Grappling too.
 
 ```
 <p align="center">
-  <img src="https://media.giphy.com/media/UUNlWv7pmr516/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/68NSfQokgR1smi2ldI/giphy.gif" width="400px" />
 </p>
 
-- 🧑🏻‍💻 I’m currently working at **Mizen** on a web & mobile application
+- 🧑🏻‍💻 I’m currently working at **Norsys** on some web & mobile applications
 - 📚 I’m currently learning some **clean code** practices and testing
-<!--- ⚡ Fun fact: I have been a **cheerleader** when I was an ERASMUS student.-->
+<br>
+Fun fact: I am also 🥈 vice **champion** of France in Brazilian jui-jitsu and 🥈 vice **champion** of France of Grappling too.
 
 <br>
 
 <!--
 Second Section
 -->
-
-## <img src="https://media.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif" width="50px"> Statistics
-
-Here are some statistics to have an overview of what I have been doing recently on GitHub. Note that I do not always push what I do and private repo does not displayed here
-<br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aysskaizen&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=AyssKaizen stats" />
-</p>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyssKaizen&count_private=true&border_radius=10px&show_icons=true&card_width=455px&bg_color=FDEFF&border_color=1e90FF&title_color=1e90FF&text_color=1e272e&custom_title=Languages I use the most" />
-</p>
-<br>
-
-<br>
-
 <!--
 Third Section
 -->
@@ -87,8 +68,10 @@ ___
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2bcbba&color=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&color=ffffff)
-![ReactJS](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&color=ffffff)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=F00020&color=ffffff)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Back-End Technologies
 ___
@@ -102,7 +85,7 @@ ___
 
  ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=for-the-badge&logo=mongodb&color=ffffff)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&color=ffffff)
- ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=eb3b5a&color=ffffff)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&color=ffffff)
 
 
 ### Tools
